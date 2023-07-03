@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Crisket23/rsschool-cv#rsschool-cv
+https://Crisket23.github.io/rsschool-cv/
